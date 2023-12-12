@@ -7,8 +7,8 @@ is_game_over = False
 
 
 def deal_card(list):
-   card = random.choice(list)
-   return card
+    card = random.choice(list)
+    return card
 
 
 for _ in range(2):
