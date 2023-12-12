@@ -1,4 +1,2 @@
-# python_mini_projects
-battery  - get a battery charge
+# Python_mini_projects
 
-json_to_csv - Convert JSON to CSV
